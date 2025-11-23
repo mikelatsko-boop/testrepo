@@ -2,4 +2,4 @@ blah blah blah file1.txt
 Hey this is mikelatsko@mail.com for a test
 
 Here is some stuff added by the ubuntu macine by mike!  who is just the best ever.
-
+line4
